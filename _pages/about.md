@@ -24,13 +24,7 @@ I focus on the design of **brain-inspired learning algorithms beyond backpropaga
 
 I have published **40+ peer-reviewed papers** in leading journals and conferences, including **PNAS**, **Patterns** (Cell Press, cover paper), **iScience**, **Scientific Data** (Nature Portfolio), **IEEE Transactions** series, as well as top-tier AI conferences such as **ICLR, NeurIPS, CVPR, IJCAI, and AAAI**.  
 
-My publications have received  
-<a href="https://scholar.google.com/citations?user=2E9Drq8AAAAJ">
-<strong><span id='total_cit'></span></strong> Google Scholar citations
-</a>
-(<a href="https://scholar.google.com/citations?user=2E9Drq8AAAAJ">
-<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
-</a>).
+
 
 ---
 
@@ -94,8 +88,12 @@ Guobin Shen, **Dongcheng Zhao**, Yiting Dong, Yi Zeng (*equal contribution*)
 
 ---
 
-# 📬 Contact
-- **Email**: zhaodc@ion.ac.cn 
-- **Affiliation**: CAS Center for Excellence in Brain Science and Intelligence Technology (CEBSIT)  
-- **Google Scholar**: <https://scholar.google.com/citations?user=2E9Drq8AAAAJ>  
-- **GitHub**: <https://github.com/XDUSPONGE>
+[//]: # (# 📬 Contact)
+
+[//]: # (- **Email**: zhaodc@ion.ac.cn )
+
+[//]: # (- **Affiliation**: CAS Center for Excellence in Brain Science and Intelligence Technology &#40;CEBSIT&#41;  )
+
+[//]: # (- **Google Scholar**: <https://scholar.google.com/citations?user=2E9Drq8AAAAJ>  )
+
+[//]: # (- **GitHub**: <https://github.com/XDUSPONGE>)

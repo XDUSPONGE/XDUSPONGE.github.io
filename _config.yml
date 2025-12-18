@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Dongcheng Zhao"
-description              : "Dongcheng Zhao — Associate Professor at CAS Center for Excellence in Brain Science and Intelligence Technology. Research: Neuromorphic Computing, Brain-inspired AI, Spiking Neural Networks"
+description              : "CAS Center for Excellence in Brain Science and Intelligence Technology"
 repository               : "XDUSPONGE/XDUSPONGE.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Dongcheng Zhao"
   avatar           : "images/zdc.JPG"
-  bio              : "Associate Professor · Brain-Inspired Intelligence"
+  bio              : "Associate Professor"
   location         : "Beijing, China"
-  employer         : "CAS Center for Excellence in Brain Science and Intelligence Technology (CEBSIT)"
+  employer         : #"CAS Center for Excellence in Brain Science and Intelligence Technology (CEBSIT)"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=2E9Drq8AAAAJ"
   email            : "zhaodc@ion.ac.cn"
