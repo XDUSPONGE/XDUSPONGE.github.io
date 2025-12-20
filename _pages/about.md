@@ -19,7 +19,13 @@ redirect_from:
 
 I am an **Associate Professor** at the **CAS Center for Excellence in Brain Science and Intelligence Technology (CEBSIT)**.
 
-My research focuses on **biologically plausible and computationally efficient spiking neural networks (SNNs)**, bridging principles from **neuroscience** with **scalable machine intelligence**.
+My research focuses on **biologically plausible and computationally efficient spiking neural networks (SNNs)**, aiming to bridge principles from **neuroscience** with **scalable machine intelligence**.
+
+[//]: # (I develop **brain-inspired learning algorithms beyond backpropagation**, with an emphasis on **local plasticity, temporal dynamics, and hardware-aware computation**.)
+
+My research has been published in leading journals and conferences, including **PNAS**, **Patterns** (Cell Press), **iScience**, **Scientific Data** (Nature Portfolio), **IEEE Transactions**, as well as top-tier AI venues such as **ICLR, NeurIPS, CVPR, IJCAI, and AAAI**.
+
+I am currently recruiting **highly motivated interns** with strong interest in **brain-inspired intelligence and spiking neural networks**.
 
 
 
@@ -36,36 +42,21 @@ My research focuses on **biologically plausible and computationally efficient sp
 ---
 <span id="selected-publications"></span>
 # 📝 Selected Publications
+**[RHeSNN](https://www.cell.com/action/showPdf?pii=S2589-0042%2825%2900921-6): Random heterogeneous spiking neural network for adversarial defense**  
+**Cell iScience, 2025**  
+Jihang Wang, **Dongcheng Zhao**, Chengcheng Du, Xiang He, Qian Zhang, Yi Zeng (*equal contribution*)
 
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
+---
 
-**Jailbreak Antidote: Runtime Safety–Utility Balance via Sparse Representation Adjustment in LLMs**  
-Guobin Shen, **Dongcheng Zhao**, Xiang He, Yiting Dong, Yi Zeng  
-*International Conference on Learning Representations (ICLR), 2025*
+**[NeuEvo](https://www.pnas.org/doi/abs/10.1073/pnas.2218173120?af=R): Brain-inspired Neural Circuit Evolution for Spiking Neural Networks**  
+**Proceedings of the National Academy of Sciences (PNAS), 2023**  
+Guobin Shen, **Dongcheng Zhao**, Yiting Dong, Yi Zeng (*equal contribution*)
 
-</div>
-</div>
+---
 
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
-
-**Brain-inspired Neural Circuit Evolution for Spiking Neural Networks**  
-Guobin Shen, **Dongcheng Zhao**, Yiting Dong, Yi Zeng (*equal contribution*)  
-*Proceedings of the National Academy of Sciences (PNAS), 2023*  
-
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
-
-**Improving Stability and Performance of Spiking Neural Networks through Enhancing Temporal Consistency**  
-**Dongcheng Zhao**, Guobin Shen, Yiting Dong, Yang Li, Yi Zeng  
-*Pattern Recognition, 2024*
-
-</div>
-</div>
+**[ETC](https://www.sciencedirect.com/science/article/pii/S0031320324008458): Improving Stability and Performance of Spiking Neural Networks through Enhancing Temporal Consistency**  
+**Pattern Recognition, 2025**  
+**Dongcheng Zhao**, Guobin Shen, Yiting Dong, Yang Li, Yi Zeng 
 
 ➡️ [Complete publication list](/publications/)
 
