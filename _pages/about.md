@@ -71,7 +71,7 @@ Guobin Shen, **Dongcheng Zhao**, Yiting Dong, Yi Zeng (*equal contribution*)
 
 ---
 <span id="grants-projects"></span>
-## 🧩 Grants & Projects
+# 🧩 Grants & Projects
 
 **2025.01–2027.12**  
 **国家自然科学基金委员会 · 青年科学基金**  
@@ -93,9 +93,10 @@ Guobin Shen, **Dongcheng Zhao**, Yiting Dong, Yi Zeng (*equal contribution*)
 基于外部监督对齐与内部机制对齐的超级对齐关键技术研究及示范应用  
 *（参与）*
 ---
-## 🚀 Selected Projects
+# 🚀 Selected Projects
 
-### PandaGuard
+**PandaGuard**
+
 PandaGuard structures LLM safety evaluation as an interactive system with *Attackers*, *Defenders*, and *Judges*.  
 It supports plug-and-play algorithms, multiple inference backends, and flexible human-in-the-loop interfaces.
 
@@ -104,7 +105,8 @@ It supports plug-and-play algorithms, multiple inference backends, and flexible 
 
 ---
 
-### Spiking Transformer Evaluation Platform (STEP)
+**Spiking Transformer Evaluation Platform (STEP)**
+
 STEP provides a unified and reproducible benchmarking pipeline for Spiking Transformers, supporting classification, segmentation, and detection with energy modeling.
 
 [Project Page](https://github.com/Fancyssc/STEP) ·
@@ -112,7 +114,7 @@ STEP provides a unified and reproducible benchmarking pipeline for Spiking Trans
 
 ---
 
-### Brain-inspired Cognitive Intelligence Engine (BrainCog)
+**Brain-inspired Cognitive Intelligence Engine (BrainCog)**
 BrainCog is an open-source SNN-based cognitive intelligence engine for brain-inspired AI, embodied intelligence, and brain simulation.
 
 [Project Page](https://github.com/BrainCog-X/Brain-Cog) ·
