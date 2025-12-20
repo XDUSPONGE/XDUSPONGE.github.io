@@ -28,6 +28,7 @@ I have published **40+ peer-reviewed papers** in leading journals and conference
 
 ---
 
+<span id="news"></span>
 # 🔥 News
 - *11/2025*: 🎉 One paper accepted by **AAAI 2026**.
 - *09/2025*: 🎉 Two papers accepted by **NeurIPS 2025** (MetaPlasticity, STEP).
@@ -36,6 +37,7 @@ I have published **40+ peer-reviewed papers** in leading journals and conference
 - *05/2025*: 🎉 One paper accepted by **iScience**.
 
 ---
+<span id="selected-publications"></span>
 # 📝 Selected Publications
 
 <div class='paper-box'>
@@ -43,8 +45,7 @@ I have published **40+ peer-reviewed papers** in leading journals and conference
 
 **Jailbreak Antidote: Runtime Safety–Utility Balance via Sparse Representation Adjustment in LLMs**  
 Guobin Shen, **Dongcheng Zhao**, Xiang He, Yiting Dong, Yi Zeng  
-*International Conference on Learning Representations (ICLR), 2025*  
-[Paper](https://arxiv.org/abs/2410.02298)
+*International Conference on Learning Representations (ICLR), 2025*
 
 </div>
 </div>
@@ -69,18 +70,21 @@ Guobin Shen, **Dongcheng Zhao**, Yiting Dong, Yi Zeng (*equal contribution*)
 </div>
 </div>
 
-➡️ [Complete publication list](https://scholar.google.com/citations?user=2E9Drq8AAAAJ)
-
+➡️ [Complete publication list](/publications/)
 ---
+<span id="honors-and-awards"></span>
 # 🎖 Honors and Awards
 - **Cell Press China Paper of the Year Award (Interdisciplinary Science)**, 2023  
 - **Cell Press China Paper of the Year Award (Interdisciplinary Science)**, 2022  
 
 ---
 
+<span id="educations"></span>
 # 📖 Education
-- **Ph.D.**, Institute of Automation, Chinese Academy of Sciences (CAS)   
+- **Ph.D.**, Institute of Automation, Chinese Academy of Sciences (CAS)  
 - **B.Sc.**, School of Mathematics and Statistics, Xidian University  
+
+---
 
 # 💻 Academic Service
 - Program Committee / Reviewer: **IJCAI, AAAI, ICML, NeurIPS, ICLR**  

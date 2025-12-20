@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Dongcheng Zhao"
-  avatar           : "images/zdc.JPG"
+  avatar           : "images/android-chrome-512x512.png"
   bio              : "Associate Professor"
   location         : "Beijing, China"
   employer         : #"CAS Center for Excellence in Brain Science and Intelligence Technology (CEBSIT)"
