@@ -33,11 +33,17 @@ I am currently recruiting **highly motivated interns** with strong interest in *
 
 <span id="news"></span>
 # 🔥 News
-- *11/2025*: 🎉 One paper accepted by **AAAI 2026**.
-- *09/2025*: 🎉 Two papers accepted by **NeurIPS 2025** (MetaPlasticity, STEP).
-- *07/2025*: 🎉 One paper accepted by **ICCAD 2025**.
-- *06/2025*: 🎉 One paper accepted by **ICCV 2025**.
-- *05/2025*: 🎉 One paper accepted by **iScience**.
+- *01/2026*: 🎉 [Safety Instincts](https://arxiv.org/pdf/2508.11279.pdf) has been accepted by **ICLR 2026**.
+- *12/2025*: 🎉 [FireFly-P](https://arxiv.org/abs/2601.21222.pdf) has been accepted by **ISCAS 2026**.
+- *12/2025*: 🎉 [Hummingbird+](https://dl.acm.org/doi/abs/10.1145/3748173.3779189) has been accepted by **FPGA 2026**.
+- *11/2025*: 🎉 [One paper](https://arxiv.org/pdf/2508.11279.pdf) accepted by **AAAI 2026**.
+- *09/2025*: 🎉 [MetaPlasticity](https://arxiv.org/pdf/2308.12063.pdf) and [STEP](https://arxiv.org/abs/2505.11151.pdf) accepted by **NeurIPS 2025**.
+
+[//]: # (- *07/2025*: 🎉 One paper accepted by **ICCAD 2025**.)
+
+[//]: # (- *06/2025*: 🎉 One paper accepted by **ICCV 2025**.)
+
+[//]: # (- *05/2025*: 🎉 One paper accepted by **iScience**.)
 
 ---
 <span id="selected-publications"></span>
@@ -128,8 +134,8 @@ BrainCog is an open-source SNN-based cognitive intelligence engine for brain-ins
 ---
 
 # 💻 Academic Service
-- Program Committee / Reviewer: **IJCAI, AAAI, ICML, NeurIPS, ICLR**  
-- Journal Reviewer: **IEEE TNNLS, IEEE TIP, IEEE TETCI**
+- Program Committee / Reviewer: **IJCAI, AAAI, ECCV, ICCV, CVPR, ICML, NeurIPS, ICML, ICLR**  
+- Journal Reviewer: **IEEE TPAMI, TNNLS, TMM, TIP, TETCI**
 
 ---
 

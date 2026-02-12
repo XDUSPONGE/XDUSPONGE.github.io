@@ -50,9 +50,11 @@ Publications
 
 ## arXiv Preprints
   <ul>
-      <li>Dachuan Lin, Guobin Shen,  Zihao Yang, Tianrong Liu, <b>Dongcheng Zhao</b>, Yi Zeng <a href="https://arxiv.org/abs/2511.06396.pdf" target="_blank">Efficient LLM Safety Evaluation through Multi-Agent Debate</a>. arXiv:2511.06396, 2025.  </li>
-      <li>Guobin Shen, <b>Dongcheng Zhao</b>, Haibo Tong, Jindong Li, Feifei Zhao, Yi Zeng <a href="https://arxiv.org/html/2510.01088v1.pdf" target="_blank">Safety Instincts: LLMs Learn to Trust Their Internal Compass for Self-Defense</a>. arXiv:2510.01088v1, 2025.  </li>
-     <li>Haibo Tong, <b>Dongcheng Zhao</b>, Guobin Shen, Xiang He, Dachuan Lin, Feifei Zhao, Yi Zeng <a href="https://arxiv.org/pdf/2509.22732.pdf" target="_blank">Bidirectional Intention Inference Enhances LLMs’ Defense Against Multi-Turn Jailbreak Attacks</a>. arXiv:2509.22732, 2025. <b>Co-First Author</b> </li>
+    <li>Sichen Shen, Mingyang Lv, Han Shen, Jialin Wu, Binghao Wang, Zhou Yang, Guobin Shen, <b>Dongcheng Zhao</b>, Feifei Zhao, Yi Zeng. <a href="https://arxiv.org/abs/2602.02027.pdf" target="_blank">**Light Alignment Improves LLM Safety via Model Self-Reflection with a Single Neuron**</a>. arXiv:2602.02027, 2026.  </li>
+    <li>Sichen Shen, Mingyang Lv, Bing Han, <b>Dongcheng Zhao</b>, Feifei Zhao, Yi Zeng. <a href="https://arxiv.org/abs/2601.18274.pdf" target="_blank">**TEFormer: Structured Bidirectional Temporal Enhancement Modeling in Spiking Transformers**</a>. arXiv:2601.18274, 2026.  </li>
+    <li>Jihang Wang, <b>Dongcheng Zhao</b>, Ruolin Chen, Qian Zhang, Yi Zeng. <a href="https://arxiv.org/abs/2512.22522.pdf" target="_blank">Towards Reliable Evaluation of Adversarial Robustness for Spiking Neural Networks</a>. arXiv:2512.22522, 2025.  </li>
+    <li>Dachuan Lin, Guobin Shen,  Zihao Yang, Tianrong Liu, <b>Dongcheng Zhao</b>, Yi Zeng <a href="https://arxiv.org/abs/2511.06396.pdf" target="_blank">Efficient LLM Safety Evaluation through Multi-Agent Debate</a>. arXiv:2511.06396, 2025.  </li>
+   <li>Haibo Tong, <b>Dongcheng Zhao</b>, Guobin Shen, Xiang He, Dachuan Lin, Feifei Zhao, Yi Zeng <a href="https://arxiv.org/pdf/2509.22732.pdf" target="_blank">Bidirectional Intention Inference Enhances LLMs’ Defense Against Multi-Turn Jailbreak Attacks</a>. arXiv:2509.22732, 2025. <b>Co-First Author</b> </li>
     <li>Yao Liang, <b>Dongcheng Zhao</b>, Feifei Zhao, Guobin Shen, Yuwei Wang, Dongqi Liang, Yi Zeng <a href="https://arxiv.org/pdf/2509.08022.pdf" target="_blank">MVPBench: A Benchmark and Fine-Tuning Framework for Aligning Large Language Models with Diverse Human Values</a>. arXiv:2509.08022, 2025. <b>Co-First Author</b> </li>
     <li>Bing Han, Feifei Zhao, <b>Dongcheng Zhao</b>, Guobin Shen, Ping Wu, Yu Shi, Yi Zeng. <a href="https://arxiv.org/pdf/2508.09190.pdf" target="_blank">Fine-Grained Safety Neurons with Training-Free Continual Projection to Reduce LLM Fine Tuning Risks</a>. arXiv:2508.09190, 2025.  </li>
     <li>Ping Wu, Guobin Shen, <b>Dongcheng Zhao</b>,  Yuwei Wang, Yiting Dong, Yu Shi, Enmeng Lu, Feifei Zhao, Yi Zeng <a href="https://arxiv.org/pdf/2506.01495" target="_blank">CVC: A Large-Scale Chinese Value Rule Corpus for Value Alignment of Large Language Models</a>. arXiv:2506.01495, 2025.  <b>Co-First Author</b> </li>
@@ -73,6 +75,9 @@ Publications
 
 ## 2026
   <ol>
+    <li>Tenglong Li, Jindong Li, Guobin Shen, <b>Dongcheng Zhao</b>, Qian Zhang, Yi Zeng. <a href="https://arxiv.org/abs/2601.21222.pdf" target="_blank">FireFly-P: FPGA-Accelerated Spiking Neural Network Plasticity for Robust Adaptive Control</a>. ISCAS, 2026.</li>
+    <li>Jindong Li, Tenglong Li, Guobin Shen, <b>Dongcheng Zhao</b>, Qian Zhang, Yi Zeng. <a href="https://dl.acm.org/doi/abs/10.1145/3748173.3779189" target="_blank">Hummingbird+: Advancing FPGA-based LLM Deployment from Research Prototype to Edge Product</a>. FPGA, 2026.</li>
+    <li>Guobin Shen, <b>Dongcheng Zhao</b>, Haibo Tong, Jindong Li, Feifei Zhao, Yi Zeng <a href="https://arxiv.org/html/2510.01088v1.pdf" target="_blank">Safety Instincts: LLMs Learn to Trust Their Internal Compass for Self-Defense</a>. ICLR, 2026.  </li>
     <li>Jihang Wang, <b>Dongcheng Zhao</b>, Ruolin Chen, Qian Zhang, Yi Zeng. <a href="https://arxiv.org/pdf/2508.11279.pdf" target="_blank">Boosting the Robustness-Accuracy Trade-off of SNNs by Robust Temporal Self-Ensemble</a>. AAAI, 2026.  </li>
    </ol>
 
