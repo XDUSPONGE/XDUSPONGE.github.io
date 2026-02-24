@@ -33,6 +33,8 @@ I am currently recruiting **highly motivated interns** with strong interest in *
 
 <span id="news"></span>
 # 🔥 News
+- *02/2026*: 🎉 [One paper](https://arxiv.org/abs/2512.22522.pdf) accepted by **CVPR 2026**.
+- *02/2026*: 🎉 [One paper](https://arxiv.org/pdf/2405.14474.pdf) accepted by **TCDS 2026**.
 - *01/2026*: 🎉 [Safety Instincts](https://arxiv.org/pdf/2508.11279.pdf) has been accepted by **ICLR 2026**.
 - *12/2025*: 🎉 [FireFly-P](https://arxiv.org/abs/2601.21222.pdf) has been accepted by **ISCAS 2026**.
 - *12/2025*: 🎉 [Hummingbird+](https://dl.acm.org/doi/abs/10.1145/3748173.3779189) has been accepted by **FPGA 2026**.
@@ -139,12 +141,11 @@ BrainCog is an open-source SNN-based cognitive intelligence engine for brain-ins
 
 ---
 
-[//]: # (# 📬 Contact)
+# 📬 Contact
+- **Email**: zhaodc@ion.ac.cn 
 
-[//]: # (- **Email**: zhaodc@ion.ac.cn )
+- **Affiliation**: CAS Center for Excellence in Brain Science and Intelligence Technology (CEBSIT)  
 
-[//]: # (- **Affiliation**: CAS Center for Excellence in Brain Science and Intelligence Technology &#40;CEBSIT&#41;  )
+- **Google Scholar**: <https://scholar.google.com/citations?user=2E9Drq8AAAAJ>  
 
-[//]: # (- **Google Scholar**: <https://scholar.google.com/citations?user=2E9Drq8AAAAJ>  )
-
-[//]: # (- **GitHub**: <https://github.com/XDUSPONGE>)
+- **GitHub**: <https://github.com/XDUSPONGE>

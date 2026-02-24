@@ -50,9 +50,8 @@ Publications
 
 ## arXiv Preprints
   <ul>
-    <li>Sichen Shen, Mingyang Lv, Han Shen, Jialin Wu, Binghao Wang, Zhou Yang, Guobin Shen, <b>Dongcheng Zhao</b>, Feifei Zhao, Yi Zeng. <a href="https://arxiv.org/abs/2602.02027.pdf" target="_blank">**Light Alignment Improves LLM Safety via Model Self-Reflection with a Single Neuron**</a>. arXiv:2602.02027, 2026.  </li>
-    <li>Sichen Shen, Mingyang Lv, Bing Han, <b>Dongcheng Zhao</b>, Feifei Zhao, Yi Zeng. <a href="https://arxiv.org/abs/2601.18274.pdf" target="_blank">**TEFormer: Structured Bidirectional Temporal Enhancement Modeling in Spiking Transformers**</a>. arXiv:2601.18274, 2026.  </li>
-    <li>Jihang Wang, <b>Dongcheng Zhao</b>, Ruolin Chen, Qian Zhang, Yi Zeng. <a href="https://arxiv.org/abs/2512.22522.pdf" target="_blank">Towards Reliable Evaluation of Adversarial Robustness for Spiking Neural Networks</a>. arXiv:2512.22522, 2025.  </li>
+    <li>Sichen Shen, Mingyang Lv, Han Shen, Jialin Wu, Binghao Wang, Zhou Yang, Guobin Shen, <b>Dongcheng Zhao</b>, Feifei Zhao, Yi Zeng. <a href="https://arxiv.org/abs/2602.02027.pdf" target="_blank">Light Alignment Improves LLM Safety via Model Self-Reflection with a Single Neuron</a>. arXiv:2602.02027, 2026.  </li>
+    <li>Sichen Shen, Mingyang Lv, Bing Han, <b>Dongcheng Zhao</b>, Feifei Zhao, Yi Zeng. <a href="https://arxiv.org/abs/2601.18274.pdf" target="_blank">TEFormer: Structured Bidirectional Temporal Enhancement Modeling in Spiking Transformers</a>. arXiv:2601.18274, 2026.  </li>
     <li>Dachuan Lin, Guobin Shen,  Zihao Yang, Tianrong Liu, <b>Dongcheng Zhao</b>, Yi Zeng <a href="https://arxiv.org/abs/2511.06396.pdf" target="_blank">Efficient LLM Safety Evaluation through Multi-Agent Debate</a>. arXiv:2511.06396, 2025.  </li>
    <li>Haibo Tong, <b>Dongcheng Zhao</b>, Guobin Shen, Xiang He, Dachuan Lin, Feifei Zhao, Yi Zeng <a href="https://arxiv.org/pdf/2509.22732.pdf" target="_blank">Bidirectional Intention Inference Enhances LLMs’ Defense Against Multi-Turn Jailbreak Attacks</a>. arXiv:2509.22732, 2025. <b>Co-First Author</b> </li>
     <li>Yao Liang, <b>Dongcheng Zhao</b>, Feifei Zhao, Guobin Shen, Yuwei Wang, Dongqi Liang, Yi Zeng <a href="https://arxiv.org/pdf/2509.08022.pdf" target="_blank">MVPBench: A Benchmark and Fine-Tuning Framework for Aligning Large Language Models with Diverse Human Values</a>. arXiv:2509.08022, 2025. <b>Co-First Author</b> </li>
@@ -65,8 +64,7 @@ Publications
     <li>Linghao Feng, <b>Dongcheng Zhao</b>, Sicheng Shen, Yi Zeng. <a href="https://arxiv.org/abs/2503.23767" target="_blank">Biologically Inspired Spiking Diffusion Model with Adaptive Lateral Selection Mechanism</a>. arXiv:2503.23767, 2025.  <b>Co-First Author</b> </li>
     <li>Xiang He, <b>Dongcheng Zhao</b>, Yiting Dong, Xin Yang, Yi Zeng. <a href="https://www.arxiv.org/abs/2502.12488" target="_blank">Enhancing Audio-Visual Spiking Neural Networks through Semantic-Alignment and Cross-Modal Residual Learning</a>. arXiv:2502.12488, 2025.  <b>Co-First Author</b> </li>
    <li>Yiting Dong, Guobin Shen, <b>Dongcheng Zhao</b>, Xiang He, Yi Zeng. <a href="https://arxiv.org/abs/2410.04190" target="_blank">Harnessing Task Overload for Scalable Jailbreak Attacks on Large Language Models</a>. arXiv:2410.04190, 2024.   </li>
-    <li>Linghao Feng, <b>Dongcheng Zhao</b>, Sicheng Shen, Yiting Dong, Guobin Shen, Yi Zeng. <a href="https://arxiv.org/pdf/2405.14474" target="_blank">Time Cell Inspired Temporal Codebook in Spiking Neural Networks for Enhanced Image Generation</a>. arXiv:2405.14474, 2024.  <b>Co-First Author</b> </li>
-    <li>Guobin Shen, <b>Dongcheng Zhao</b>, Yiting Dong, Yang Li, Jindong Li, Yi Zeng. <a href="https://arxiv.org/abs/2312.07625.pdf" target="_blank">Astrocyte-Enabled Advancements in Spiking Neural Networks for Large Language Modeling</a>. arXiv:2312.07625, 2023.  <b>Co-First Author</b> </li>
+   <li>Guobin Shen, <b>Dongcheng Zhao</b>, Yiting Dong, Yang Li, Jindong Li, Yi Zeng. <a href="https://arxiv.org/abs/2312.07625.pdf" target="_blank">Astrocyte-Enabled Advancements in Spiking Neural Networks for Large Language Modeling</a>. arXiv:2312.07625, 2023.  <b>Co-First Author</b> </li>
     <li>Guobin Shen, <b>Dongcheng Zhao</b>, Yiting Dong, Yang Li, Yi Zeng. <a href="https://arxiv.org/pdf/2305.11484.pdf" target="_blank">Dive into the Power of Neuronal Heterogeneity</a>. arXiv:2305.11484, 2023.  </li>
     <li>Jihang Wang, <b>Dongcheng Zhao</b>, Guobin Shen, Qian Zhang, Yi Zeng. <a href="https://arxiv.org/pdf/2205.12718.pdf" target="_blank">DPSNN: A Differentially Private Spiking Neural Network with Temporal Enhanced Pooling</a>. arXiv:2205.12718, 2022. <b>Co-First Author</b> </li>
   </ul>
@@ -75,6 +73,8 @@ Publications
 
 ## 2026
   <ol>
+    <li>Linghao Feng, <b>Dongcheng Zhao</b>, Sicheng Shen, Yiting Dong, Guobin Shen, Yi Zeng. <a href="https://arxiv.org/pdf/2405.14474" target="_blank">Time Cell Inspired Temporal Codebook in Spiking Neural Networks for Enhanced Image Generation</a>. TCDS, 2026.  <b>Co-First Author</b> </li>
+    <li>Jihang Wang, <b>Dongcheng Zhao</b>, Ruolin Chen, Qian Zhang, Yi Zeng. <a href="https://arxiv.org/abs/2512.22522.pdf" target="_blank">Towards Reliable Evaluation of Adversarial Robustness for Spiking Neural Networks</a>. CVPR, 2026.  </li>
     <li>Tenglong Li, Jindong Li, Guobin Shen, <b>Dongcheng Zhao</b>, Qian Zhang, Yi Zeng. <a href="https://arxiv.org/abs/2601.21222.pdf" target="_blank">FireFly-P: FPGA-Accelerated Spiking Neural Network Plasticity for Robust Adaptive Control</a>. ISCAS, 2026.</li>
     <li>Jindong Li, Tenglong Li, Guobin Shen, <b>Dongcheng Zhao</b>, Qian Zhang, Yi Zeng. <a href="https://dl.acm.org/doi/abs/10.1145/3748173.3779189" target="_blank">Hummingbird+: Advancing FPGA-based LLM Deployment from Research Prototype to Edge Product</a>. FPGA, 2026.</li>
     <li>Guobin Shen, <b>Dongcheng Zhao</b>, Haibo Tong, Jindong Li, Feifei Zhao, Yi Zeng <a href="https://arxiv.org/html/2510.01088v1.pdf" target="_blank">Safety Instincts: LLMs Learn to Trust Their Internal Compass for Self-Defense</a>. ICLR, 2026.  </li>
