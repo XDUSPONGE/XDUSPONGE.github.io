@@ -23,7 +23,7 @@ My research focuses on **biologically plausible and computationally efficient sp
 
 [//]: # (I develop **brain-inspired learning algorithms beyond backpropagation**, with an emphasis on **local plasticity, temporal dynamics, and hardware-aware computation**.)
 
-My research has been published in leading journals and conferences, including **PNAS**, **Patterns** (Cell Press), **iScience**, **Scientific Data** (Nature Portfolio), **IEEE Transactions**, as well as top-tier AI venues such as **ICLR, NeurIPS, CVPR, IJCAI, and AAAI**.
+My research has been published in leading journals and conferences, including **Science Advances**, **PNAS**, **Patterns** (Cell Press), **iScience**, **Scientific Data** (Nature Portfolio), **IEEE Transactions**, as well as top-tier AI venues such as **ICLR, NeurIPS, ICML, CVPR, ICCV**.
 
 I am currently recruiting **highly motivated interns** with strong interest in **brain-inspired intelligence and spiking neural networks**.
 
@@ -33,13 +33,20 @@ I am currently recruiting **highly motivated interns** with strong interest in *
 
 <span id="news"></span>
 # 🔥 News
+- *05/2026*: 🎉 [TEFormer](https://arxiv.org/abs/2601.18274.pdf) and [BrainAlign](https://arxiv.org/abs/2507.01966.pdf) accepted by **ICML 2026**.
+- *04/2026*: 🎉 [One paper](https://arxiv.org/abs/2512.22522.pdf) accepted by **Science Advances**.
+- *04/2026*: 🎉 [One paper](https://arxiv.org/abs/2512.22522.pdf) accepted by **Neural Networks 2026**.
 - *02/2026*: 🎉 [One paper](https://arxiv.org/abs/2512.22522.pdf) accepted by **CVPR 2026**.
 - *02/2026*: 🎉 [One paper](https://arxiv.org/pdf/2405.14474.pdf) accepted by **TCDS 2026**.
 - *01/2026*: 🎉 [Safety Instincts](https://arxiv.org/pdf/2508.11279.pdf) has been accepted by **ICLR 2026**.
-- *12/2025*: 🎉 [FireFly-P](https://arxiv.org/abs/2601.21222.pdf) has been accepted by **ISCAS 2026**.
-- *12/2025*: 🎉 [Hummingbird+](https://dl.acm.org/doi/abs/10.1145/3748173.3779189) has been accepted by **FPGA 2026**.
-- *11/2025*: 🎉 [One paper](https://arxiv.org/pdf/2508.11279.pdf) accepted by **AAAI 2026**.
-- *09/2025*: 🎉 [MetaPlasticity](https://arxiv.org/pdf/2308.12063.pdf) and [STEP](https://arxiv.org/abs/2505.11151.pdf) accepted by **NeurIPS 2025**.
+
+[//]: # (- *12/2025*: 🎉 [FireFly-P]&#40;https://arxiv.org/abs/2601.21222.pdf&#41; has been accepted by **ISCAS 2026**.)
+
+[//]: # (- *12/2025*: 🎉 [Hummingbird+]&#40;https://dl.acm.org/doi/abs/10.1145/3748173.3779189&#41; has been accepted by **FPGA 2026**.)
+
+[//]: # (- *11/2025*: 🎉 [One paper]&#40;https://arxiv.org/pdf/2508.11279.pdf&#41; accepted by **AAAI 2026**.)
+
+[//]: # (- *09/2025*: 🎉 [MetaPlasticity]&#40;https://arxiv.org/pdf/2308.12063.pdf&#41; and [STEP]&#40;https://arxiv.org/abs/2505.11151.pdf&#41; accepted by **NeurIPS 2025**.)
 
 [//]: # (- *07/2025*: 🎉 One paper accepted by **ICCAD 2025**.)
 
@@ -50,9 +57,9 @@ I am currently recruiting **highly motivated interns** with strong interest in *
 ---
 <span id="selected-publications"></span>
 # 📝 Selected Publications
-**[RHeSNN](https://www.cell.com/action/showPdf?pii=S2589-0042%2825%2900921-6): Random heterogeneous spiking neural network for adversarial defense**  
-**Cell iScience, 2025**  
-Jihang Wang, **Dongcheng Zhao**, Chengcheng Du, Xiang He, Qian Zhang, Yi Zeng (*equal contribution*)
+**[Inverse effectiveness driven multimodal fusion](https://arxiv.org/abs/2505.10176): Incorporating brain-inspired mechanisms for multimodal learning in artificial intelligence**  
+**Science Advances, 2026**  
+Xiang He, **Dongcheng Zhao**, Yang Li, Qingqun Kong, Xin Yang, Yi Zeng (*equal contribution*)
 
 ---
 
